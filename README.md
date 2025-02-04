@@ -1,10 +1,6 @@
 Friday Chatbot 🤖
 Welcome to Friday, your friendly AI chatbot powered by Botpress! It’s designed to interact with users and provide seamless conversations.
 
-🌐 Live Demo
-You can try Friday Chatbot right now! Click the link below to start chatting:
-👉 Start Chatting with Friday
-
 ✨ Key Features
 Built with Botpress for real-time conversations.
 Interactive and intelligent responses to engage users.
